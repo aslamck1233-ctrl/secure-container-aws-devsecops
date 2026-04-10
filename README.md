@@ -59,3 +59,10 @@ Screenshots available in `/screenshots` folder:
 ## 📈 Key Learnings
 - Real-world cloud security implementation
 - Container security best
+- AWS monitoring and alerting setup
+- DevSecOps fundamentals
+
+---
+
+## 👨‍💻 Author
+Muhammed Aslam
